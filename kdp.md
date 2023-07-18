@@ -16,7 +16,6 @@ By adopting the art of cyclical thinking, you will discover a profound sense of 
 
 In the next chapter, we will explore the foundations of cyclical thinking and understand how embracing the cyclicality of life can unlock our true potential.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
