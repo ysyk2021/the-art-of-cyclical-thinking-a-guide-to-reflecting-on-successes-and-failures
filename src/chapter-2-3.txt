@@ -1,0 +1,1 @@
+for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "benefits of developing a cyclical thinking mindset".  Use Markdown format. Use English.

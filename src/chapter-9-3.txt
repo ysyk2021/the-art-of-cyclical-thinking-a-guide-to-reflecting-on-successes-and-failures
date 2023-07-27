@@ -1,0 +1,1 @@
+for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "examples of individuals who successfully applied cyclical thinking beyond personal life".  Use Markdown format. Use English.

@@ -3,7 +3,7 @@ Strategies for Overcoming These Obstacles
 
 In this chapter, we will explore the various obstacles that individuals may encounter when trying to embrace cyclical thinking and reflect on their successes and failures. We will provide practical strategies to overcome these obstacles, allowing readers to fully engage in the process of learning and growth. By implementing these strategies, you will be able to foster a mindset of continuous improvement and maximize the benefits of cyclical thinking.
 
-1. Recognizing Resistance
+1\. Recognizing Resistance
 -------------------------
 
 One common obstacle to cyclical thinking is resistance to change or self-reflection. Many individuals find it challenging to acknowledge their mistakes or shortcomings. To overcome this resistance, consider the following strategies:
@@ -14,7 +14,7 @@ One common obstacle to cyclical thinking is resistance to change or self-reflect
 
 * **Start small:** Begin by reflecting on smaller, less significant experiences or events. This can gradually build your confidence in embracing cyclical thinking and make it easier to tackle more substantial challenges.
 
-2. Overcoming Fear of Failure
+2\. Overcoming Fear of Failure
 -----------------------------
 
 Fear of failure often hampers our ability to engage in cyclical thinking effectively. To overcome this fear, try the following strategies:
@@ -25,7 +25,7 @@ Fear of failure often hampers our ability to engage in cyclical thinking effecti
 
 * **Focus on growth:** Shift your focus from external validation to personal growth. Emphasize the importance of continuous improvement and recognize that setbacks are temporary roadblocks rather than permanent barriers.
 
-3. Cultivating a Growth Mindset
+3\. Cultivating a Growth Mindset
 -------------------------------
 
 Developing a growth mindset is crucial for effective cyclical thinking. The following strategies can help cultivate this mindset:

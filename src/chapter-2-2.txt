@@ -1,0 +1,1 @@
+for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "common misconceptions about cyclical thinking".  Use Markdown format. Use English.
