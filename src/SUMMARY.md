@@ -2,7 +2,6 @@
 
 - [Chapter 1: Introduction](README.md)
   - [Importance of cyclical thinking](chapter-1-1.md)
-  - [Overview of the book's contents](chapter-1-2.md)
 - [Chapter 2: Understanding Cyclical Thinking](chapter-2.md)
   - [Definition of cyclical thinking](chapter-2-1.md)
   - [Common misconceptions about cyclical thinking](chapter-2-2.md)

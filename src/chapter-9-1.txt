@@ -1,1 +1,0 @@
-for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "importance of applying cyclical thinking beyond personal life".  Use Markdown format. Use English.

@@ -1,1 +1,0 @@
-for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "examples of successful collaborations that utilized cyclical thinking techniques".  Use Markdown format. Use English.

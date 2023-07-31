@@ -1,1 +1,0 @@
-for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "strategies for incorporating reflections into decision-making processes".  Use Markdown format. Use English.

@@ -1,1 +1,0 @@
-for the book "the art of cyclical thinking a guide to reflecting on successes and failures", write a chapter: "examples of individuals who successfully reflected on successes and failures using these techniques".  Use Markdown format. Use English.
