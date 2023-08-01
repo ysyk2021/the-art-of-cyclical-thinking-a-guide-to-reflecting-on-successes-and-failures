@@ -12,6 +12,4 @@ As you embark on this transformative journey, I encourage you to approach the ch
 
 By adopting the art of cyclical thinking, you will discover a profound sense of self-awareness, gain valuable insights, and develop a resilient mindset that can propel you towards future success. Let us now begin this exploration together, as we unravel the mysteries and intricacies of cyclical thinking.
 
-In the next chapter, we will explore the foundations of cyclical thinking and understand how embracing the cyclicality of life can unlock our true potential.
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
