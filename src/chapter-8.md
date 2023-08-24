@@ -1,5 +1,3 @@
-Chapter 8: The Role of Mindfulness in Cyclical Thinking
-=======================================================
 
 In this chapter, we will explore the role of mindfulness in cyclical thinking. By cultivating mindfulness, individuals can develop greater awareness of their thoughts and behaviors, reflect on past successes and failures, and make more informed decisions for the future.
 

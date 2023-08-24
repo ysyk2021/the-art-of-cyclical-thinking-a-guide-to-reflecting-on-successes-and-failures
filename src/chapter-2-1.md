@@ -1,5 +1,3 @@
-Definition of Cyclical Thinking
-==========================================
 
 Cyclical thinking is a cognitive approach that emphasizes the recognition and analysis of patterns in behavior, outcomes, and events. It involves reflecting on past experiences, identifying recurring themes, and leveraging these insights to inform decision-making and drive continuous improvement.
 

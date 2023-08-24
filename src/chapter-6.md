@@ -1,5 +1,3 @@
-Chapter 6: Collaborating Through Cyclical Thinking
-==================================================
 
 In this chapter, we will explore the importance of collaboration in cyclical thinking and provide strategies for effective collaboration with others.
 

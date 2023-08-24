@@ -1,5 +1,3 @@
-Techniques for Practicing Mindfulness to Improve Cyclical Thinking
-=============================================================================
 
 Incorporating mindfulness practices into the application of cyclical thinking can enhance self-awareness, focus, and reflection. This chapter explores various techniques for practicing mindfulness that can help improve cyclical thinking and promote personal growth.
 

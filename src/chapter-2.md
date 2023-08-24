@@ -1,5 +1,3 @@
-Chapter 2: Understanding Cyclical Thinking
-==========================================
 
 In this chapter, we will explore the concept of cyclical thinking and its importance in personal growth and development.
 

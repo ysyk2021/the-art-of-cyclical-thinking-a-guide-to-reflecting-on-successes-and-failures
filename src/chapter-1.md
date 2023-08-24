@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 In this chapter, we will introduce the concept of cyclical thinking and provide an overview of the contents of "The Art of Cyclical Thinking: A Guide to Reflecting on Successes and Failures."
 

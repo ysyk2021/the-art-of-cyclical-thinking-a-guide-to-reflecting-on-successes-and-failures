@@ -1,5 +1,3 @@
-Strategies for Effective Collaboration with Others to Improve Cyclical Thinking
-===================================================================================================================================
 
 In this chapter, we explore the importance of collaboration in enhancing cyclical thinking and present strategies to foster effective collaboration. By working together with others, we can widen our perspectives, gain valuable insights, and collectively enhance our cyclical thinking abilities.
 

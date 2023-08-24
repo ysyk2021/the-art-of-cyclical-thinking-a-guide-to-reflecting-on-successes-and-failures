@@ -1,5 +1,3 @@
-Techniques for Applying Lessons Learned to Future Decisions
-=======================================================================
 
 A key benefit of cyclical thinking is the ability to apply lessons learned from past experiences to future decisions. By leveraging insights gained through reflection, we can make more informed and effective choices. In this chapter, we explore techniques for applying lessons learned to future decision-making processes.
 
