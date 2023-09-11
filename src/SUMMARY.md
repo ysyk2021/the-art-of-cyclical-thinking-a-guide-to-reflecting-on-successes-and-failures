@@ -36,3 +36,4 @@
   - [Examples of individuals who successfully applied cyclical thinking beyond personal life](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
